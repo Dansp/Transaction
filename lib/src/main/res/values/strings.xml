@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Transaction</string>
+    <string name="cancel">Cancel</string>
+    <string name="sure_cancel">Are you sure?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
